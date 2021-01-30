@@ -1,7 +1,7 @@
 # Computer Science Projects
 This repository contains a sample of the most meaningful CS projects I wrote as an undergraduate student at San Diego State University. These projects are in several languages including Java, Assembly Language, Python.
 
-## Machine Learning
+## Machine Learning (Python)
 In this ML course, my group chose to test different Machine Learning models to see how robust they were against noise introduction. Click this link to access the repository [Noise Introduction to Binary Classification Models on Kaggle Ship Image Dataset](https://github.com/jvaleros/ML_ClassifyShips "ML Project Repository")
 
 ## Data Structures (JAVA)
