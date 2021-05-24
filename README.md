@@ -19,7 +19,7 @@ A scheme program containing many functions, some of which use recursion (palindr
 
 ## Assembly Language
 
-Contains code written for the Motorola 68000 family, and includes a DateFormatter program that showcases the manipulation of memory in assembly language as well as reading input and condition checking.
+Contains a sample of code written for the Motorola 68000 family, and includes a DateFormatter program that showcases the manipulation of memory in assembly language as well as reading input and condition checking.
 
 It also includes a Prime Number validator that given a valid base 10 number will tell us if it is a prime number or not.
 
